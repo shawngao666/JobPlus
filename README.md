@@ -1,4 +1,4 @@
-# JobPlus
+# Job+
 AWS based personalized Job Recommendation web application
 
 Update: Github Jobs API is deprecated! It will shut down entirely on August 19, 2021.

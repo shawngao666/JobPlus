@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;entify&apos; to &apos;entity&apos;&#x0A;- Original project: &apos;jupiter&apos;&#x0A;- Original element: &apos;jupiter/src/main/java/entify&apos;&#x0A;- Renamed element: &apos;jupiter/src/main/java/entity&apos;&#x0A;- Update references to refactored element&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;entify&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;entify" name="entity" qualified="false" references="true" stamp="1591564298089" textual="false" version="1.0"/>
+</session>
